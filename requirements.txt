@@ -1,0 +1,8 @@
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+pandas>=2.0
+jupyterlab>=4.0
+ipykernel>=6.0
+
+matplotlib>=3.7
+plotly>=5.18
