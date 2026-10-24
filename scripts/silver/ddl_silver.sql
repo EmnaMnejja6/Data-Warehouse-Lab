@@ -7,7 +7,6 @@ Script Purpose:
     first. Run this script to re-define the structure of the silver layer.
 ===============================================================================
 */
-
 CREATE SCHEMA IF NOT EXISTS silver;
 
 DROP TABLE IF EXISTS silver.crm_cust_info;
