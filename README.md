@@ -22,7 +22,7 @@ one fact table) built for analysis.
 
 ## Star schema
 
-![Gold-layer star schema](docs/star_schema.png)
+![Gold-layer star schema](docs/star_schema.jpeg)
 
 `fact_sales` (one row per order line) connects to `dim_customers`, `dim_products`,
 and `dim_date`. The date dimension is used three times, for order, shipping, and
